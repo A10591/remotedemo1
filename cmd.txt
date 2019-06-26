@@ -1,0 +1,222 @@
+    1  git --version
+    2  pwd
+    3  cd "H:\github"
+    4  ls
+    5  mkdir project
+    6  cd project
+    7  git version
+    8  ls -l
+    9  cd
+   10  pwd
+   11  ls
+   12  ls -al
+   13  find ~-name*config
+   14  find ~ -name * config
+   15  find ~ -name *config
+   16  pwd
+   17  find ~ -name *config
+   18  git config --global user.name "pournima"
+   19  git config --global user.email "pournima_mishra@persistent.com"
+   20  git config --global --list
+   21  git clone "https://github.com/A10591/pournima1"
+   22  cd project/
+   23  cd project
+   24  cd
+   25  cd h;
+   26  cd h:
+   27  cd project
+   28  ls
+   29  cd H:\github\project
+   30  cd github
+   31  cd project
+   32  ls
+   33  cd ..
+   34  cd project
+   35  ls
+   36  cd cd
+   37  cd
+   38  cd
+   39  cd
+   40  cdcdcdcdc\
+   41  cdcdcdclear
+   42  clear
+   43  git status
+   44  ls
+   45  cd "H:\github"
+   46  git clone "https://github.com/A10591/pournima1"
+   47  ls
+   48  cd pournima1
+   49  git status
+   50      LS -AL
+   51  cd .git/
+   52  ls
+   53  cd ..
+   54  pwd
+   55  cd ..
+   56  cd project
+   57  cd ..
+   58  cd pournima
+   59  git status
+   60  cd pournima\
+   61  cd pournima
+   62  cd pournima1
+   63  echo "test git quick start demo" >> start.txt
+   64  ls
+   65  cat start.txt
+   66  git status
+   67  git add start.txt
+   68  git status
+   69  man git
+   70  git help
+   71  git help HEAD
+   72  git help PUSH
+   73  git help pull
+   74  git help PULL
+   75  git --help
+   76  git help pull
+   77  git status
+   78  git status
+   79  cd ..
+   80  git status
+   81  cd pournima1
+   82  git status
+   83  git commit -m "adding start test file"
+   84  git status
+   85  git commit -m "adding start test file"
+   86  ls
+   87  cat start.txt
+   88  git status
+   89  git status
+   90  cat start.txt
+   91  ls
+   92  ls -l
+   93  cd .git
+   94  ls -al
+   95  cd ..
+   96  cd .git
+   97  find ~ -name start.txt
+   98  find ~ -name start.txt
+   99  find ~ - name start.txt
+  100  find ~ -name start.txtfind ~
+  101  git push origin master
+  102  ghuguiiu;
+  103  fyfyfyu
+  104  gugyugu
+  105  git push origin master
+  106  git push origin master
+  107  git push origin master
+  108  git push origin master
+  109  git push origin master
+  110  ls
+  111  cd ..
+  112  ls
+  113  cat start.txt
+  114  cd .git
+  115  git push origin
+  116  git push origin master
+  117  cd ..
+  118  git commit -m "adding startgf"
+  119  ls
+  120  git help pull
+  121  git status
+  122  git status
+  123  cd h:
+  124  ls
+  125  cd github
+  126  ls
+  127  cd project
+  128  cd ..
+  129  cd pournima1
+  130  echo "2nd file" >> second.txt
+  131  ls
+  132  git status
+  133  git add second.txt
+  134  git commit -m "adding second line"
+  135  git status
+  136  cd .git
+  137  git push origin master
+  138  cd
+  139  git config --global core.editor "notepad++.exe -multiInst -nosession"
+  140  git config --global --list
+  141  npp .gitconfig
+  142  npp .gitconfig
+  143  npp .gitconfig
+  144  npp .gitconfig
+  145  git config --global --list
+  146  npp .gitconfig
+  147  vi
+  148  alias npp='notepad++.exe -multiInst -nosession'
+  149  vi ~/.bashrc
+  150  vi ~/.gitconfig
+  151  pwd
+  152  cd h:
+  153  ls
+  154  cd github
+  155  cd project
+  156  ls
+  157  git init "fresh-project"
+  158  ls
+  159  cd
+  160  cd h:
+  161  cd github
+  162  cd project
+  163  cd fresh-project
+  164  ls -al
+  165  cd .git
+  166  ls -a
+  167  cd ../..
+  168  pwd
+  169  cd fresh-project
+  170  cd fresh-project/
+  171  cd fresh-project
+  172  git status
+  173  vi hipster.txt
+  174  vi hipster.txt
+  175  git status
+  176  git add hipster.txt
+  177  git status
+  178  git commit
+  179  vi ~/.gitconfig
+  180  alias editor=vim
+  181  export editor
+  182  git commit
+  183  vi ~/.gitconfig
+  184  vi ~/.gitconfig
+  185  git commit
+  186  git status
+  187  ls
+  188  git push origin master
+  189  .git
+  190  git status
+  191  pwd
+  192  cd ..
+  193  git push fresh-project
+  194  cd .git
+  195  ls
+  196  cd .git/
+  197  ls
+  198  cd fresh-project
+  199  cd .git
+  200  ls
+  201  git push
+  202  git remote add fresh-remote "https://github.com/A10591/pournima1"
+  203  git push fresh-remote
+  204  cd ../..
+  205  cd ..
+  206  unzip initializr-verekia-4.0.zip
+  207  ls
+  208  unzip initializr-verekia-4.0.zip
+  209  ls
+  210  mv initializr web-project
+  211  ls
+  212  cd web-project
+  213  ls
+  214  git init 
+  215  pwd
+  216  ls -al
+  217  git status
+  218  git add .
+  219  git status
+  220  roject
+  221  git commit -m "my first commit inline"
+  222  history >> cmd.txt
